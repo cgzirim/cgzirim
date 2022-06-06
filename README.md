@@ -1,4 +1,4 @@
-### Hello World, I'm Chigozirim  👋
+### Hello, Thanks for visiting. I'm Chigozirim  👋
 
  <img align="right" alt="GIF" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif" width="500" height="320" />
 
