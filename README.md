@@ -44,5 +44,5 @@
 
 [Medium]: https://medium.com/@iamokwukwe
 [twitter]: https://twitter.com/iChigozirim_/
-[linkedin]: www.linkedin.com/in/chigozirim-igweamaka-233775205/
+[linkedin]: https://linkedin.com/in/chigozirim-igweamaka-233775205/
 [portfolio]: https://
