@@ -1,9 +1,9 @@
 ### Hello World, I'm Chigozirim  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif" width="500" height="320" />
 
+- 🌱 I’m currently learning Web development
 - 🔭 I’m currently working on improving my problem solving skills
-- 🌱 I’m currently learning JavaScript
 - 📝 I regularly write articles on [Medium]
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with making good relationships
@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun question: If an alligator wearing a "vest" is called an "investigator" what is a metal wearing a vest called? Metaverse!
 
-### Talk with me, I am kinda awesome:
+### Connect with me:
 [<img align="left" alt="Chigozirim | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 
 [<img align="left" alt="Chigozirim | Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichigozirim_" height="30" width="40" />][twitter]
