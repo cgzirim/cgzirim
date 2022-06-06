@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving my problem solving skills
 - 🌱 I’m currently learning JavaScript
-- 📝 I regularly write articles on my [Medium]
+- 📝 I regularly write articles on [Medium]
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with making good relationships
 - 📫 How to reach me: iamokwukwe@gmail.com
@@ -44,5 +44,5 @@
 
 [Medium]: https://medium.com/@iamokwukwe
 [twitter]: https://twitter.com/iChigozirim_/
-[linkedin]: https://www.linkedin.com/in/chigozirim-igweamaka/
+[linkedin]: www.linkedin.com/in/chigozirim-igweamaka-233775205/
 [portfolio]: https://
