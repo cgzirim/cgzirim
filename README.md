@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<a href="file:///home/chigozirim/Downloads/Chigozirim_resume%20(3).pdf">
+<a href="https://drive.google.com/file/d/1yHirCfDzCEWDCm3V1Lavu788ndr-Vmqr/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/chigozirim-igweamaka/">
