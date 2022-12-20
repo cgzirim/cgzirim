@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/iChigozirim">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+ I'm+Chigozirim!;I'm+a+Software+Engineer+specializing+in+back-end+development;Some+of+my+interests+include+DeveOps,+and+Cloud+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+ I'm+Chigozirim!;I'm+a+Software+Engineer+specializing+in+back-end+development;Some+of+my+interests+include+DeveOps,+and+Cloud+Engineering" alt="Typing SVG" />
 </a>
 <br/>
 
