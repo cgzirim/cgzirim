@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<a href="https://drive.google.com/file/d/1VBVVIyfZ6RYfGlf2kckWPsdBM0HvU8Ay/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1TxdpE0bB8e1RILP3yP5oDg-3KSHrdQcI/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/chigozirim-igweamaka/">
