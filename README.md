@@ -44,9 +44,9 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iChigozirim&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cgzirim&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iChigozirim&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iChigozirim&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cgzirim&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cgzirim&theme=dracula)
 
 </details>
