@@ -30,7 +30,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas.
 * 💻 Currently working on improving my DSA skills
-* :zap: Fun fact: There are 404 shocking facts about me but you won't find them.
+* :zap: Fun fact: There are 404 aliens in Egypt and Ethiopia combined but you won't find them.
 
 ### Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
