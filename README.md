@@ -1,6 +1,6 @@
 ### Hi there!
 
-Chigozirim here, I code the behind-the-scenes magic – a backend developer extraordinaire. Algorithms, distributed systems, the Cloud – that's where I thrive.  I love a good challenge, something that pushes me to learn and grow. That's what gets me fired up.
+Chigozirim here, I code the behind-the-scenes magic – a backend developer extraordinaire. APIs, distributed systems, the Cloud – that's where I thrive.  I love a good challenge, something that pushes me to learn and grow. That's what gets me fired up.
 Let's be honest, CSS isn't exactly my jam, but anything else in the software engineering world? Count me in! I'm all about the challenge and the never-ending learning grind.
 
 * I'm open to collaborating on projects and innovative ideas.
