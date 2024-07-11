@@ -5,7 +5,7 @@ Let's be honest, CSS isn't exactly my jam, but anything else in the software eng
 
 * I'm open to collaborating on projects and innovative ideas.
 * I am young and have no kids (^_^) so I'm open to adventures, travel, and exploration.
-* Random fact: I learned to write with my left hand to beat boredom.
+* Random fact: I learned to write with my left hand when I aspired to be an architect.
 
 #### Languages, Databases, and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
