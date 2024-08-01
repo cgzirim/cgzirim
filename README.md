@@ -1,7 +1,7 @@
 ### Hi there!
 
 I'm Chigozirim, a backend engineer who brings the behind-the-scenes magic to life. APIs, distributed systems, the Cloud – that's where I thrive.
-I embrace challenges, things that push me to learn and grow; they ignite my passion. While CSS may not be my favorite, I'm wholeheartedly dedicated to mastering the craft of backend engineering and exploring beyond its scope.
+I embrace challenges, things that push me to learn and grow; they ignite my zeal. While CSS may not be my favorite, I'm dedicated to mastering the craft of backend engineering while staying open to exploring other fields.
 
 * I'm open to collaborating on projects and innovative ideas.
 * I am young and have no kids (^_^) so I'm open to adventures, travel, and exploration.
